@@ -1,0 +1,327 @@
+[%notitle]
+= The Major Prophets
+:imagesdir: images
+:icons: font
+:revealjs_width: "1200"
+:revealjs_height: "768"
+:revealjs_minScale: 0.2
+:revealjs_maxScale: 2.0
+:customcss: ./preso.css
+:revealjs_theme: simple
+:revealjs_history: true
+:revealjs_transition: none
+// :revealjs_controls: false
+
+++++
+<br/><br/><div class="content" style="display: flex; text-align: center;">
+<p style="font-size: 0.5em; width: 100%"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The Major Prophets</span> by
+<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Jim J. Moore</span> is licensed under
+a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />
+Presentation source at <a xmlns:dct="http://purl.org/dc/terms/" href="https://jdigger.github.io/biblestudy-preso-ot-majorprophets/" rel="dct:source">https://jdigger.github.io/biblestudy-preso-ot-majorprophets/</a></p></div>
+++++
+
+
+== Agenda
+
+* Anointed Offices
+* Isaiah
+* Jeremiah
+* Ezekiel
+* Daniel
+* Summary
+
+== Anointed Offices
+
+There were three anointed offices: Prophet, Priest, and King
+
+* Prophet: Speaks **from** God to the people
+* Priest: Speaks **to** God on behalf of the people
+* King: Leads, provides for, and defends the people of God
+
+== What Is A Prophet?
+
+A prophet is one who announces or brings a message from God.
+
+== What Is A Prophet?
+
+The prophets taught and passionately reminded people of God's Law and His Covenants (agreements) with His people. They pointed out sins and the consequences they would bring, calling on everyone to repent.
+
+== The Point of Prophesy
+
+It's not to give "`secret`" knowledge -- of the future or anything else.
+
+It is to motivate us to turn back to God and stay faithful. The major prophecies of destruction and punishment for the disobedient are coupled with the promises of God's blessings for the obedient, and hope of the coming Kingdom of God.
+
+
+[%notitle]
+== Isaiah - God's Throne Room
+
+image::Isaiah6.jpg[background, size=cover]
+
+== Isaiah's Calling
+
+[quote.bible]
+--
+https://www.biblegateway.com/passage/?search=Isaiah%206&version=NKJV[Isaiah 6:1-10] In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. And one cried to another and said: "`Holy, holy, holy is the Lord of hosts; The whole earth is full of His glory!`" And the posts of the door were shaken by the voice of him who cried out, and the house was filled with smoke.
+--
+
+[%notitle]
+== Isaiah's Calling
+
+[quote.bible]
+--
+So I said: "`Woe is me, for I am undone! Because I am a man of unclean lips, And I dwell in the midst of a people of unclean lips; For my eyes have seen the King, The Lord of hosts.`"
+
+Then one of the seraphim flew to me, having in his hand a live coal which he had taken with the tongs from the altar. And he touched my mouth with it, and said: "`Behold, this has touched your lips; Your iniquity is taken away, And your sin purged.`"
+
+Also I heard the voice of the Lord, saying: "`Whom shall I send, And who will go for Us?`"
+--
+
+[%notitle]
+== Isaiah's Calling
+
+[quote.bible]
+--
+Then I said, "`Here am I! Send me.`"
+
+And He said, "`Go, and tell this people: Keep on hearing, but do not understand; Keep on seeing, but do not perceive.`"
+
+"`Make the heart of this people dull, And their ears heavy, And shut their eyes; Lest they see with their eyes, And hear with their ears, And understand with their heart, And return and be healed.`"
+--
+
+== The Purpose of Prophecy
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=2+Peter+1%3A19-21&version=NIV[2 Peter 1:19-21] We also have the prophetic message as something completely reliable, and you will do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts. Above all, you must understand that no prophecy of Scripture came about by the prophet's own interpretation of things. For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit.
+
+== The Four "`Major`" Prophets
+
+* Isaiah
+* Jeremiah
+* Ezekiel
+* Daniel
+
+== Isaiah
+
+His name means "`Yahweh is Salvation`", and it's the clear theme of his book.
+
+== Isaiah - The Man
+
+He lived around the years 740-680 B.C. (during 2Kings/2Chronicles).
+
+He was evidently a well-educated student of international affairs, and spent most of his time in the city of Jerusalem, where he rubbed shoulders with royalty and gave advice on foreign affairs. (He was likely King Uzziah's cousin.)
+
+He vigorously opposed any entangling alliances with foreign powers. As warned by the Lord in chapter six, his cause was doomed to failure. Both the government and people chose to put their trust in the political alliances of man, rather than in the sure promises of God.
+
+== Isaiah - A Mini-Bible
+
+The first thirty-nine chapters of Isaiah largely correspond to the thirty-nine books of the Old Testament, which largely anticipate the coming of Messiah. The last twenty-seven chapters of Isaiah neatly parallel the twenty-seven chapters of the New Testament, speaking a great deal about Messiah and His Kingdom as the Servant of the Lord.
+
+Chapters 1-39 speak of man's great need of Salvation, while chapters 40-66 reveal God's provision of Salvation in Messiah and His kingdom.
+
+== Isaiah - The Christmas Prophet
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+7%3A14&version=NKJV[Isaiah 7:14] Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+9%3A6-7&version=NKJV[Isaiah 9:6-7] For unto us a Child is born, Unto us a Son is given; And the government will be upon His shoulder. And His name will be called Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of His government and peace There will be no end,
+Upon the throne of David and over His kingdom, To order it and establish it with judgment and justice From that time forward, even forever. The zeal of the Lord of hosts will perform this.
+
+== Isaiah - The Easter Prophet
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+53%3A4-7&version=NKJV[Isaiah 53:4-7] Surely He has borne our griefs And carried our sorrows; Yet we esteemed Him stricken, Smitten by God, and afflicted. But He was wounded for our transgressions, He was bruised for our iniquities; The chastisement for our peace was upon Him, And by His stripes we are healed. All we like sheep have gone astray; We have turned, every one, to his own way; And the Lord has laid on Him the iniquity of us all. He was oppressed and He was afflicted, Yet He opened not His mouth; He was led as a lamb to the slaughter, And as a sheep before its shearers is silent, So He opened not His mouth.
+
+== Isaiah - The Fall of Lucifer
+
+image::lucifer-fallen-angel-2.jpeg[role="right",height="310px"]
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+14%3A12-15&version=NKJV[Isaiah 14:12-15] How you are fallen from heaven, O Lucifer, son of the morning! How you are cut down to the ground, You who weakened the nations! For you have said in your heart: "`I will ascend into heaven, I will exalt my throne above the stars of God; I will also sit on the mount of the congregation On the farthest sides of the north; I will ascend above the heights of the clouds, I will be like the Most High.`" Yet you shall be brought down to Sheol, To the lowest depths of the Pit.
+
+== Isaiah - The Lord Is Our Salvation
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Isaiah+2%3A3-4&version=NKJV[Isaiah 2:3-4] Many people shall come and say,"`Come, and let us go up to the mountain of the Lord, To the house of the God of Jacob; He will teach us His ways, And we shall walk in His paths.`" For out of Zion shall go forth the law, And the word of the Lord from Jerusalem. He shall judge between the nations, And rebuke many people; They shall beat their swords into plowshares, And their spears into pruning hooks; Nation shall not lift up sword against nation, Neither shall they learn war anymore.
+
+
+
+
+== Jeremiah
+
+Warnings Against Sin and Judgment
+
+== Jeremiah - The Man
+
+Jeremiah was a contemporary of Zephaniah, Habakkuk, Daniel, and Ezekiel.
+
+His prophetic ministry began in 626 B.C. and ended sometime after 586. Ezekiel began his ministry in Babylon in 593, he was also a late contemporary of this great prophet in Jerusalem.
+
+He was friends with Josiah, who was a faithful king, but that only lasted a few years before the kings that followed led the nation deeper and deeper into heresy.
+
+== Jeremiah's Reputation
+
+He's often thought of as "`the weeping prophet,`" and for good reason. He prayed desperately for his people, who continued to go further and further from God, forcing Him to have them be exiled by the emerging Babylonian empire. Despite the discipline the Lord would bring upon them, ultimately Jeremiah preached a message of hope that the people of Judah did not want to hear -- yet.
+
+== In the Name of the Lord pt1
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Jeremiah+7%3A30-34&version=NIV[Jeremiah 7:30-34] The people of Judah have done evil in my eyes, declares the Lord. They have set up their detestable idols in the house that bears my Name and have defiled it. They have built the high places of Topheth in the Valley of Ben Hinnom to burn their sons and daughters in the fire -- something I did not command, nor did it enter my mind.
+
+== In the Name of the Lord pt2
+
+[quote.bible]
+So beware, the days are coming, declares the Lord, when people will no longer call it Topheth or the Valley of Ben Hinnom, but the Valley of Slaughter, for they will bury the dead in Topheth until there is no more room. Then the carcasses of this people will become food for the birds and the wild animals, and there will be no one to frighten them away. I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in the towns of Judah and the streets of Jerusalem, for the land will become desolate.
+
+== Sound Familiar?
+
+Putting faith in political alliances instead of the Word of the Lord, as Isaiah warned? Or saying that God commands a prosperous nation to do vile things in His name, as Jeremiah records?
+
+https://ehills.org/message/americanity--two-kingdoms-but-one-king--phil-eubank/
+
+image::2kingdoms_sermon-20220515.jpg[role="bottom",height="200px"]
+
+== Jeremiah's Writing
+
+He wrote (more accurately, dictated to his secretary, Baruch) both the book Jeremiah and Lamentations. The book that bears his name is the longest book of the Bible -- significantly longer than all the books of the minor prophets combined. (Psalms, being a hymnal rather than a "`book,`" doesn't count.) It warns against the destruction of Jerusalem.
+
+Lamentations is five poems written after Jerusalem is destroyed, reflecting both the obvious cries of anguish, as well as holding onto God's promises of future mercy.
+
+== Jesus and Jerusalem
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=+Matthew+23%3A37&version=NIV[Matthew 23:37] "`Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.`"
+
+The destruction of Jerusalem that Jeremiah sees is but the first. Shortly after Jesus is executed, it is destroyed for the second and final time (in its capacity as the City of God and home of His Temple).
+
+== Jeremiah's Commission
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Jeremiah+1%3A4-10&version=NIV[Jeremiah 1:4-10] The word of the Lord came to me, saying, "`Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.`" "`Alas, Sovereign Lord,`" I said, "`I do not know how to speak; I am too young.`" But the Lord said to me, "`Do not say, 'I am too young.' You must go to everyone I send you to and say whatever I command you. Do not be afraid of them, for I am with you and will rescue you,`" declares the Lord. Then the Lord reached out his hand and touched my mouth and said to me, "`I have put my words in your mouth. See, today I appoint you over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and to plant.`"
+
+== Future Hope
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Jeremiah+29%3A10-13&version=NIV[Jeremiah 29:10-13] This is what the Lord says: "`When seventy years are completed for Babylon, I will come to you and fulfill my good promise to bring you back to this place. For I know the plans I have for you,`" declares the Lord, "`plans to prosper you and not to harm you, plans to give you hope and a future. Then you will call on me and come and pray to me, and I will listen to you. You will seek me and find me when you seek me with all your heart.`"
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Lamentations+3%3A21-24&version=NIV[Lamentations 3:21-24] Yet this I call to mind and therefore I have hope: Because of the Lord's great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness. I say to myself, "`The Lord is my portion; therefore I will wait for him.`"
+
+== The Problem...
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Jeremiah+17%3A9&version=NIV[Jeremiah 17:9] The heart is deceitful above all things and beyond cure. Who can understand it?
+
+== And the TRUE Solution
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NIV[Jeremiah 31:31-34] "`The days are coming,`" declares the Lord, "`when I will make a new covenant with the people of Israel and with the people of Judah. It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,`" declares the Lord. "`This is the covenant I will make with the people of Israel after that time,`" declares the Lord. "`I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people... For I will forgive their wickedness and will remember their sins no more.`"
+
+== One This Side of the Cross
+
+Of course as we now know, He's referring to the New Covenant that we can not break. He kept and keeps all the terms Himself, paid for in their entirety by the Blood of the Jesus. He has even done the work of writing it on our hearts that we would be His people.
+
+Amen and Hallelujah!!
+
+
+
+
+== Ezekiel
+
+The need for discipline to bring reconciliation
+
+== Ezekiel - Timeline
+
+Ezekiel was taken captive by the Babylonians in 597 B.C. (This was the first wave of Babylonians conquests; they eventually destroyed Jerusalem 11 years later in 586.)
+
+== Ezekiel - Themes
+
+Ministering as a prophet to the Jews exiled in Babylon, his writings cover three major themes:
+
+1. the coming destruction of Jerusalem
+2. future judgment for the people of Judah because of their continued rebellion against God
+3. the future restoration of Jerusalem after the Jews' time of captivity comes to an end
+
+== Ezekiel - Core Theme
+
+The phrase "`Then they will know that I am the Lord`" occurs no less than 65 times in the book.
+
+== Ezekiel - Reconciliation
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Ezekiel+34%3A11-31&version=NIV[Ezekiel 34:11-31] For this is what the Sovereign Lord says: "`I myself will search for my sheep and look after them. As a shepherd looks after his scattered flock when he is with them, so will I look after my sheep... I will search for the lost and bring back the strays. I will bind up the injured and strengthen the weak, but the sleek and the strong I will destroy. I will shepherd the flock with justice... I will judge between one sheep and another, and between rams and goats... I will place over them one shepherd, my servant David, and he will tend them; he will tend them and be their shepherd. I the Lord will be their God, and my servant David will be prince among them....You are my sheep, the sheep of my pasture, and I am your God, declares the Sovereign Lord.`"
+
+
+
+
+== Daniel
+
+God is Sovereign Over Time and Nations
+
+== Daniel - The Man
+
+While a youth, Daniel was taken as a captive to Babylon in 605 B.C. by Nebuchadnezzar. There he became a statesman in the courts of four different kings of Babylon, including Nebuchadnezzar and Darius. Though he did not officially occupy the office of a prophet, Christ identified him as a prophet (Matt. 24:15; Mark 13:14), and he had some of the most _amazing_ prophecies of the Prophets.
+
+== Sovereign Over ALL
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Daniel+2%3A20-22&version=NIV[Daniel 2:20-22] Praise be to the name of God for ever and ever; wisdom and power are his. He changes times and seasons; he deposes kings and raises up others. He gives wisdom to the wise and knowledge to the discerning. He reveals deep and hidden things; he knows what lies in darkness, and light dwells with him.
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Daniel+7%3A14&version=NIV[Daniel 7:14] He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.
+
+== Daniel 2 - The Statue
+
+image::Statue-of-Nebuchadnezzar-Daniel-Chapter-2-Iron-and-Clay-Hyrbid-Nephilim-Kingdom.jpeg[role="right",height="200px"]
+
+[quote.bible]
+https://www.biblegateway.com/passage/?search=Daniel+2%3A31-44&version=NIV[Daniel 2:31-44] Your Majesty looked [in a dream], and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance. The head of the statue was made of pure gold, its chest and arms of silver, its belly and thighs of bronze, its legs of iron, its feet partly of iron and partly of baked clay. While you were watching, a rock was cut out, but not by human hands. It struck the statue on its feet of iron and clay and smashed them... But the rock that struck the statue became a huge mountain and filled the whole earth... In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever.
+
+== Daniel 3 - The Golden Statue
+
+image::fiery-furnace.jpeg[]
+
+== Daniel 4 - The Tree
+
+image::Daniel_4.jpeg[role="left", height="500px"]
+image::Daniel_4d.jpg[role="right", height="500px"]
+
+== Daniel 5 - The Writing on the Wall
+
+image::daniel5.jpeg[]
+
+== Daniel 6 - Lion's Den
+
+image::daniel_and_the_lion_s_den_by_notbaddrawnthatway-d8q9msm.jpeg[]
+
+== Daniel 7 - The Four Beasts
+
+image::Daniels-4-beasts.jpeg[]
+
+== Daniel - Later Prophecy
+
+The rest of the book continues to contains a lot, including things referenced in Revelation.
+
+There's so much detail that secular scholars have often tried to place its writing hundreds of years later, even though that takes more faith than believing the prophecies. One of the significant findings in the Dead Sea Scrolls was they further verified the atheists theories couldn't be true. 
+
+
+
+
+== Summary
+
+All of the "`major prophets`" focussed on God's majesty, holiness, power, and mercy.
+
+From warning about getting too focussed on human solutions, to denying and perverting God, to overseeing the most powerful empires for a thousand years and more, one message is clear:
+
+God is both LORD and REDEEMER
+
+
+
+== Appendix
+
+Heavily indebted to https://bible.org/seriespage/major-prophets
+
+O'Neal, Sam. "Who Were the Major Prophets in the Bible?" Learn Religions, Aug. 25, 2020, learnreligions.com/introduction-to-the-major-prophets-in-the-bible-363402.
